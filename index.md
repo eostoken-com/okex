@@ -1,1 +1,11 @@
-欢迎来到这里
+
+<!Doctype html> 
+<html>
+  <head>
+    <meat charset="UTF-8"/>
+    <title>www.okex.com</title>
+  </head>
+  <body>
+    点击领取空投币
+  </body>
+</html>
