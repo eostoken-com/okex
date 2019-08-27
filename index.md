@@ -1,11 +1,13 @@
-
 <!Doctype html>
 <html>
-  <head>
-    <meat charset="UTF-8"/>
-    <title>eostoken</title>
-  </head>
-  <body>
-    点击领取空投币
-  </body>
+	<head>
+		<meat charset="UTF-8"/>
+		<title>OKEX</title>
+		<style type="text/css">
+		.aone{background:url(one.jpeg)}
+		</style>
+	</head>
+	<body class="aone">
+		
+	</body>
 </html>
