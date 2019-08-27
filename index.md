@@ -1,9 +1,9 @@
 
-<!Doctype html> 
+<!Doctype html>
 <html>
   <head>
     <meat charset="UTF-8"/>
-    <title>www.okex.com</title>
+    <title>eostoken</title>
   </head>
   <body>
     点击领取空投币
