@@ -19,9 +19,9 @@
 	<body background="two.jpg">
 		
 		
-		<div style="left: 100px; position: absolute; top: 200px;">
+		<div style="left:5%; position: absolute; top:10%;">
 
-			<h1>OKEx矿池挖矿节</h1>
+			<h1>OKEx矿池</h1>
 			<h5>为回馈新老用户，OKEX针对持仓用户派发糖果</h5>
 
 
