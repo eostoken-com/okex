@@ -10,7 +10,7 @@
 				
 				}
 			img{
-				background-color:none;
+				background-color:hidden;
 				position:absolute;
 				left:50px;
 				top:5px;
