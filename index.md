@@ -12,10 +12,11 @@
 				}
 		
 
-		body{		background-max-width: 100%
+		body{		background-max-width:100%;
 				background-repeat:no-repeat;
 				background-repat:repeat-x;
 				background-size:cover;
+				background-max-height:100%;
 				}
 
 		</style>
