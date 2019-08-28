@@ -10,7 +10,7 @@
 				color:white;
 				
 				}
-		
+		background { max-width: 100%;}
 
 		</style>
 
