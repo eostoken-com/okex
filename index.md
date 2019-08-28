@@ -1,6 +1,7 @@
 
 <html>
 	<head>
+		<meta content="width=device-width,user-scalable=no" name="viewport">
 		<meat charset="UTF-8"/>
 		<title>OKEX</title>
 		<style type="text/css">
@@ -10,7 +11,7 @@
 				
 				}
 			img{
-				background-color:hidden;
+			
 				position:absolute;
 				left:50px;
 				top:5px;
