@@ -16,7 +16,7 @@
 				background-repeat:no-repeat;
 				background-repat:repeat-x;
 				background-size:cover;
-				background-max-height:100%;
+				background-max-height:300%;
 				}
 
 		</style>
