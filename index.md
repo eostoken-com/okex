@@ -10,13 +10,19 @@
 				color:white;
 				
 				}
-		background { max-width: 100%;}
+		
+
+		body{		background-max-width: 100%
+				background-repeat:no-repeat;
+				background-repat:repeat-x;
+				background-size:cover;
+				}
 
 		</style>
 
 
 	</head>
-	<body background="two.jpg">
+	<body background="one.jpeg">
 		
 		
 		<div style="left:5%; position: absolute; top:10%;">
