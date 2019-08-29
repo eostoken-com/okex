@@ -1,41 +1,63 @@
-
 <html>
 	<head>
-		<meta content="width=device-width,user-scalable=no" name="viewport">
-		<meat charset="UTF-8"/>
+		<meat charset="UTF-8">
 		<title>OKEX</title>
 		<style type="text/css">
-			div{
-				font-size:1.5em;
-				color:white;
-				
-				}
+		#logo{	
+			text-align:center;
+			}
+		.one{
+			color:white;
+			font-size:40px;
+			text-align:center;
+			}
+		table{	
+			width:500px;
+			margin:auto
+			
+			
+			
+			}
+		td{	
+			text-align:left;														                   
+
+     border-bottom:2px solid fuchsia;
+			color:white;padding:15px;
+			font-size:25px;
+			}
+		a{
+			text-decoration:none;
+			color:white;
+			
+			}
+		a:hover{
+			color:red
+			
+			}
 		
-
-		body{		
-				background-repeat:no-repeat;
-				background-repat:repeat-x;
-				background-size:100%;
-				
-				}
-
-		</style>
-
-
+</style>
 	</head>
-	<body background="one.jpeg">
+	<body style="background-color:navy">
 		
-		
-		<div style="left:5%; position: absolute; top:10%;">
+		<div id="logo"><img src="shree.png"width="120px" ></div>
+		<div class="one">全球顶级数字资产交易平台</div>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<div style="text-align:center">
+			<table>
+				<tr>
+					<td><a href="https://www.okex.me"><span style="font-size:40px;padding:10px;">💒</span>官方网站</a></td>
+					<td><a href="http://m.okexme.cn/nd.jsp?id=18"><span style="font-size:40px;padding:10px;">🎁</span>空投活动</a></td>
+				</tr>
+				<tr>
+					<td><a href="https://www.okex.me/activity/jumpstart"><span style="font-size:40px;padding:10px;">🔰</span>Jumpstart</a></td>
+					<td><a href="http://m.okexme.cn"><span style="font-size:40px;padding:10px;">📣</span>领取空投</a></td>
+				</tr>
+			</table>
+		</div>
 
-			<h1>OKEx矿池</h1>
-			<h5>为回馈新老用户，OKEX针对持仓用户派发糖果</h5>
-
-
-
-
-
-
-</div>
 	</body>
 </html>
