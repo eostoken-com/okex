@@ -1,0 +1,47 @@
+﻿<style type="text/css">
+			#one:focus{
+					border-color:yellow;
+					}
+			#two:focus{
+					border-color:green;
+					}
+			#oneq{
+				border:1px solid black;
+				
+				margin-left:70px;
+				}
+			#twoq{
+				border:1px solid black;
+				margin-left:20px;
+				}
+			#oneq:hover{
+					background-color:yellow;
+					}
+			#twoq:hover{
+					background-color:yellow;
+					}
+
+			.dome1{ margin-top:50px;
+				margin-left:70px;
+			      
+				
+				}
+			.dome{ 
+			        margin-left:70px;
+				
+				}
+                        .god{   background-color:green;
+				border:1px solid red;
+				margin-left:450px;
+				margin-right:450px;
+				height:300px;
+			        margin-top:150px;
+				
+				}
+                         .god1{ 
+			        margin-top:20px;
+				margin-left:70px;
+				}
+			
+			
+		</style>
